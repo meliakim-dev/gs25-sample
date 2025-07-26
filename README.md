@@ -5,7 +5,7 @@
 ## 📚 목차
 
 - [1. 🪙 Coin DataStore Sample](#1-coin-datastore-sample)  
-- [2. 🛠️ Shop UI Sample](#2-part-customize-sample)  
+- [2. 🛠️ Part Customize Sample](#2-part-customize-sample)  
 
 ---
 
