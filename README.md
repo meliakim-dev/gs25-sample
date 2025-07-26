@@ -9,7 +9,7 @@
 
 ---
 
-## 1. DataStore Sample (데이터 업데이트 샘플)
+## 1. DataStore Sample
 플레이어 코인을 저장하고 불러오는 기능을 포함한 샘플입니다.  
 
 ## 🚀 주요 기능  
@@ -37,7 +37,7 @@ Workspace/
 
 ---
 
-## 2. Furniture Custom Sample (파트 배치 변경 샘플)
+## 2. Furniture Custom Sample
 파트 위치를 변경하는 기능을 포함한 샘플입니다.
 
 ## 🚀 주요 기능  
