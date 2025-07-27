@@ -27,7 +27,7 @@ Workspace/
 ├── CoinPlusPart  
 └── CoinMinusPart   
 
-## 📦 How To Use
+## 🎮 How To Use
 1. Drag the `.rbxm` file into Roblox Studio and place it in ServerScriptService.  
 2. Clicking `CoinPlusPart` or `CoinMinusPart` will increase/decrease the number of coins.  
 3. You can check whether data is saved when you reconnect.  
@@ -56,7 +56,7 @@ StarterPlayer
 Workspace  
 └── TestPart (Part)  
 
-## 📦 How To Use
+## 🎮 How To Use
 1. Drag the `.rbxm` file into Roblox Studio and place it in ServerScriptService.  
 2. Move the mouse while holding down the `Move` button to move the part.  
 3. When the part is ready to be placed, release the mouse button to place the part.  
