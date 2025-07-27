@@ -17,7 +17,7 @@ This is a sample that includes the ability to save and load player coins.
 > - Increase or decrease coin data  
 > - Save updated data on the server  
 
-## File Structure  
+## 🏷️ File Structure  
 ReplicatedStorage/  
 └── CoinData  
 ServerScriptService/  
@@ -45,7 +45,7 @@ This is a sample that includes a function to change the part position.
 > - Move while holding down the mouse button -> Reflect real-time part movement  
 > - Release the mouse button -> Exit placement system  
 
-## File Structure  
+## 🏷️ File Structure  
 ReplicatedStorage/  
 └── FurnitureCustomizeModule  
 StarterGui  
