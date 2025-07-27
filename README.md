@@ -1,4 +1,4 @@
-# 🛍️ Work Together! GS25 Sample (Roblox)
+# 🏪 Work Together! GS25 Sample (Roblox)
 
 This is a collection of Roblox game systems that includes 2 samples. Each sample is provided as an .rbxm file and can be run directly in Studio.  
 
